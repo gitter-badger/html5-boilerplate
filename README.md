@@ -1,4 +1,5 @@
 # [HTML5 Boilerplate](http://html5boilerplate.com)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/fanuneza/html5-boilerplate?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://travis-ci.org/h5bp/html5-boilerplate.svg)](https://travis-ci.org/h5bp/html5-boilerplate)
 [![devDependency Status](https://david-dm.org/h5bp/html5-boilerplate/dev-status.svg)](https://david-dm.org/h5bp/html5-boilerplate#info=devDependencies)
